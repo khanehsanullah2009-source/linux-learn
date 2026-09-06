@@ -1,0 +1,7 @@
+Linux Basics
+
+1. ls - shows files and folders
+2. cd - changes directory
+3. pwd - shows current directory
+4. mkdir - creates a directory
+5. touch - creates a file
